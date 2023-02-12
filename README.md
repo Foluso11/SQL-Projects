@@ -4,3 +4,4 @@ In order to achieve this, I cleaned the data by ensuring that there are no missi
 A uniform bases of comparison was created to ensure that comparison is not biased.
 Then I went ahead to compare salary based on location and experience level.
 I also compared highest salary paid based on job title.
+The source of the data was from the internet
